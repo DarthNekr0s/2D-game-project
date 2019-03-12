@@ -1,0 +1,2482 @@
+fileFormatVersion: 2
+guid: 813499e561fe0cb48b57054ef9795228
+timeCreated: 1549207510
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: STONE FLOOR BRICK
+    21300002: celianna_templetiles3_1
+    21300004: POOL WALLS
+    21300006: STONE FLOOR
+    21300008: STONE FLOOR TILES
+    21300010: STONE FLOOR PATTERN
+    21300012: celianna_templetiles3_6
+    21300014: celianna_templetiles3_7
+    21300016: celianna_templetiles3_8
+    21300018: celianna_templetiles3_9
+    21300020: celianna_templetiles3_10
+    21300022: celianna_templetiles3_11
+    21300024: TEMPLE WALL
+    21300026: TEMPLE WALL MOSSY
+    21300028: celianna_templetiles3_14
+    21300030: celianna_templetiles3_15
+    21300032: celianna_templetiles3_16
+    21300034: TEMPLE DOOR CLOSED
+    21300036: TEMPLE DOOR OPENING
+    21300038: TEMPLE DOOR OPENING 2
+    21300040: TEMPLE DOOR OPEN
+    21300042: celianna_templetiles3_21
+    21300044: celianna_templetiles3_22
+    21300046: celianna_templetiles3_23
+    21300048: celianna_templetiles3_24
+    21300050: celianna_templetiles3_25
+    21300052: celianna_templetiles3_26
+    21300054: celianna_templetiles3_27
+    21300056: celianna_templetiles3_28
+    21300058: celianna_templetiles3_29
+    21300060: celianna_templetiles3_30
+    21300062: celianna_templetiles3_31
+    21300064: celianna_templetiles3_32
+    21300066: celianna_templetiles3_33
+    21300068: celianna_templetiles3_34
+    21300070: celianna_templetiles3_35
+    21300072: celianna_templetiles3_36
+    21300074: celianna_templetiles3_37
+    21300076: celianna_templetiles3_38
+    21300078: celianna_templetiles3_39
+    21300080: celianna_templetiles3_40
+    21300082: celianna_templetiles3_41
+    21300084: celianna_templetiles3_42
+    21300086: celianna_templetiles3_43
+    21300088: celianna_templetiles3_44
+    21300090: celianna_templetiles3_45
+    21300092: celianna_templetiles3_46
+    21300094: celianna_templetiles3_47
+    21300096: celianna_templetiles3_48
+    21300098: celianna_templetiles3_49
+    21300100: celianna_templetiles3_50
+    21300102: celianna_templetiles3_51
+    21300104: celianna_templetiles3_52
+    21300106: celianna_templetiles3_53
+    21300108: celianna_templetiles3_54
+    21300110: celianna_templetiles3_55
+    21300112: celianna_templetiles3_56
+    21300114: BRANCH VINES
+    21300116: ROOTS
+    21300118: MOSSY ROOTS
+    21300120: celianna_templetiles3_60
+    21300122: MOSSY FLOOR
+    21300124: celianna_templetiles3_62
+    21300126: BRANCH VINES SMALL
+    21300128: VINE
+    21300130: ROOT
+    21300132: HANGING ROOT
+    21300134: ROCK LARGE
+    21300136: celianna_templetiles3_68
+    21300138: celianna_templetiles3_69
+    21300140: ROCK
+    21300142: celianna_templetiles3_71
+    21300144: celianna_templetiles3_72
+    21300146: celianna_templetiles3_73
+    21300148: GRASSY ROCK LARGE
+    21300150: GRASSY ROCK SMALL
+    21300152: GRASSYROCK
+    21300154: SUPPORT BEAM2
+    21300156: SUPPORT BEAM
+    21300158: PILLAR2
+    21300160: PILLAR1
+    21300162: celianna_templetiles3_81
+    21300164: celianna_templetiles3_82
+    21300166: celianna_templetiles3_83
+    21300168: PLATFORM LONG
+    21300170: PLATFORM SMALL
+    21300172: TEMPLE ENTRANCE
+    21300174: celianna_templetiles3_87
+    21300176: celianna_templetiles3_88
+    21300178: celianna_templetiles3_89
+    21300180: celianna_templetiles3_90
+    21300182: celianna_templetiles3_91
+    21300184: DOOR BUTTON 1
+    21300186: DOOR BUTTON 2
+    21300188: DOOR BUTTON 3
+    21300190: DOOR BUTTON 4
+    21300192: celianna_templetiles3_96
+    21300194: celianna_templetiles3_97
+    21300196: celianna_templetiles3_98
+    21300198: celianna_templetiles3_99
+    21300200: celianna_templetiles3_100
+    21300202: celianna_templetiles3_101
+    21300204: UNNLIT BRAZIER
+    21300206: LIT BRAZIER 1
+    21300208: LIT BRAZIER 2
+    21300210: LIT BRAZIER 3
+    21300212: celianna_templetiles3_106
+    21300214: celianna_templetiles3_107
+    21300216: celianna_templetiles3_108
+    21300218: celianna_templetiles3_109
+    21300220: SKULL 2
+    21300222: SKULL
+    21300224: celianna_templetiles3_112
+    21300226: celianna_templetiles3_113
+    21300228: celianna_templetiles3_114
+    21300230: SMALL POT
+    21300232: LARGE POT
+    21300234: ROUND POT
+    21300236: celianna_templetiles3_118
+    21300238: celianna_templetiles3_119
+    21300240: celianna_templetiles3_120
+    21300242: celianna_templetiles3_121
+    21300244: celianna_templetiles3_122
+    21300246: RUBBLE PILE
+    21300248: celianna_templetiles3_124
+    21300250: celianna_templetiles3_125
+    21300252: celianna_templetiles3_126
+    21300254: celianna_templetiles3_127
+    21300256: LARGE POT BROKEN
+    21300258: celianna_templetiles3_129
+    21300260: celianna_templetiles3_130
+    21300262: RUBBLE
+    21300264: celianna_templetiles3_132
+    21300266: celianna_templetiles3_133
+    21300268: celianna_templetiles3_134
+    21300270: celianna_templetiles3_135
+    21300272: celianna_templetiles3_136
+    21300274: celianna_templetiles3_137
+    21300276: celianna_templetiles3_138
+    21300278: celianna_templetiles3_139
+    21300280: celianna_templetiles3_140
+    21300282: celianna_templetiles3_141
+    21300284: celianna_templetiles3_142
+    21300286: celianna_templetiles3_143
+    21300288: celianna_templetiles3_144
+    21300290: celianna_templetiles3_145
+    21300292: celianna_templetiles3_146
+    21300294: celianna_templetiles3_147
+    21300296: celianna_templetiles3_148
+    21300298: celianna_templetiles3_149
+    21300300: celianna_templetiles3_150
+    21300302: celianna_templetiles3_151
+    21300304: celianna_templetiles3_152
+    21300306: celianna_templetiles3_153
+    21300308: celianna_templetiles3_154
+    21300310: celianna_templetiles3_155
+    21300312: TEMPLE WALL VINES
+    21300314: TEMPLE WALL HOLE
+    21300316: TEMPLE WALL BRICK
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: STONE FLOOR BRICK
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1351
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: POOL WALLS
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1279
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STONE FLOOR
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1316
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STONE FLOOR TILES
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1316
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STONE FLOOR PATTERN
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1316
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_6
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1279
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_7
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1279
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1280
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_10
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_11
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1169
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEMPLE WALL
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1169
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEMPLE WALL MOSSY
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1168
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_14
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1204
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_15
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1167
+        width: 51
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_16
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEMPLE DOOR CLOSED
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1093
+        width: 77
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEMPLE DOOR OPENING
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1093
+        width: 77
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEMPLE DOOR OPENING 2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1093
+        width: 77
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEMPLE DOOR OPEN
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1093
+        width: 77
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_21
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1094
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_22
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1094
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_23
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1094
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_24
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1094
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_25
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1094
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_26
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1094
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_27
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1094
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1022
+        width: 79
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_29
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1022
+        width: 79
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_30
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1022
+        width: 79
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_31
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1022
+        width: 79
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_32
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1021
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_33
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1021
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_34
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1021
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_35
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1021
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_36
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1021
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_37
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1021
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_38
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1021
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_39
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 868
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_40
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 868
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_41
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 870
+        width: 128
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 872
+        width: 101
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_43
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 872
+        width: 101
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_44
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 816
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_45
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 816
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_46
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 817
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_47
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 747
+        width: 101
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_48
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 747
+        width: 101
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_49
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 714
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_50
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 715
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_51
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 705
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_52
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 709
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_53
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 707
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_54
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 707
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_55
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 708
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_56
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 707
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BRANCH VINES
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 611
+        width: 35
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ROOTS
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 603
+        width: 142
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MOSSY ROOTS
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 603
+        width: 142
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_60
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 674
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MOSSY FLOOR
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 612
+        width: 160
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_62
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 610
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BRANCH VINES SMALL
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 530
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VINE
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 535
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ROOT
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 541
+        width: 70
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HANGING ROOT
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 529
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ROCK LARGE
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 520
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_68
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 533
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_69
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 532
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ROCK
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 532
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_71
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 449
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_72
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 443
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_73
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 443
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GRASSY ROCK LARGE
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 441
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GRASSY ROCK SMALL
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 444
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GRASSYROCK
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 447
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SUPPORT BEAM2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 334
+        width: 39
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SUPPORT BEAM
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 336
+        width: 37
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PILLAR2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 334
+        width: 33
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PILLAR1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 334
+        width: 33
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_81
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 339
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_82
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 339
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_83
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 338
+        width: 34
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLATFORM LONG
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 338
+        width: 69
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLATFORM SMALL
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 338
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEMPLE ENTRANCE
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 288
+        width: 93
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_87
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 4
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_88
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 285
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_89
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 285
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_90
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 285
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_91
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 285
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DOOR BUTTON 1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 285
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DOOR BUTTON 2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 285
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DOOR BUTTON 3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 285
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DOOR BUTTON 4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 285
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_96
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 291
+        width: 4
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_97
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 289
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_98
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 295
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_99
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 297
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_100
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 245
+        width: 91
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_101
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 245
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UNNLIT BRAZIER
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 227
+        width: 17
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LIT BRAZIER 1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 227
+        width: 26
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LIT BRAZIER 2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 227
+        width: 26
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LIT BRAZIER 3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 227
+        width: 26
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_106
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 253
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_107
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 254
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_108
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 141
+        width: 64
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_109
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 140
+        width: 67
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SKULL 2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 242
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SKULL
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 218
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_112
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 215
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_113
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 212
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_114
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 213
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SMALL POT
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 213
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LARGE POT
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 210
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ROUND POT
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 211
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_118
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 172
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_119
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 179
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_120
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 179
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_121
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 179
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_122
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 179
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RUBBLE PILE
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 180
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_124
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 184
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_125
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 179
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_126
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 182
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_127
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 182
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LARGE POT BROKEN
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 177
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_129
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 180
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_130
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 161
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RUBBLE
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 160
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_132
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 85
+        width: 13
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_133
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 82
+        width: 30
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_134
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 77
+        width: 124
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_135
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 116
+        width: 124
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_136
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 123
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_137
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 131
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_138
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 125
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_139
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 141
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_140
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 125
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_141
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 124
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_142
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 79
+        width: 124
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_143
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 19
+        width: 32
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_144
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 104
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_145
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 68
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_146
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 98
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_147
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 8
+        width: 21
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_148
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 72
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_149
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 19
+        width: 20
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_150
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 9
+        width: 8
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_151
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 11
+        width: 102
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_152
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 29
+        width: 61
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_153
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 57
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_154
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 27
+        width: 5
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_templetiles3_155
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 31
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEMPLE WALL VINES
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1162
+        width: 32
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEMPLE WALL HOLE
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1169
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEMPLE WALL BRICK
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1168
+        width: 32
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

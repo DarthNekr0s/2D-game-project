@@ -1,0 +1,907 @@
+fileFormatVersion: 2
+guid: 5186b59308abd014398739551fee5def
+timeCreated: 1549120728
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: shade-a-antimadiviner-voidclan_0
+    21300002: shade-a-antimadiviner-voidclan_1
+    21300004: shade-a-antimadiviner-voidclan_2
+    21300006: shade-a-antimadiviner-voidclan_3
+    21300008: shade-a-antimadiviner-voidclan_4
+    21300010: shade-a-antimadiviner-voidclan_5
+    21300012: shade-a-antimadiviner-voidclan_6
+    21300014: shade-a-antimadiviner-voidclan_7
+    21300016: shade-a-antimadiviner-voidclan_8
+    21300018: shade-a-antimadiviner-voidclan_9
+    21300020: shade-a-antimadiviner-voidclan_10
+    21300022: shade-a-antimadiviner-voidclan_11
+    21300024: shade-a-antimadiviner-voidclan_12
+    21300026: shade-a-antimadiviner-voidclan_13
+    21300028: shade-a-antimadiviner-voidclan_14
+    21300030: shade-a-antimadiviner-voidclan_15
+    21300032: shade-a-antimadiviner-voidclan_16
+    21300034: shade-a-antimadiviner-voidclan_17
+    21300036: shade-a-antimadiviner-voidclan_18
+    21300038: shade-a-antimadiviner-voidclan_19
+    21300040: shade-a-antimadiviner-voidclan_20
+    21300042: shade-a-antimadiviner-voidclan_21
+    21300044: shade-a-antimadiviner-voidclan_22
+    21300046: shade-a-antimadiviner-voidclan_23
+    21300048: shade-a-antimadiviner-voidclan_24
+    21300050: shade-a-antimadiviner-voidclan_25
+    21300052: shade-a-antimadiviner-voidclan_26
+    21300054: shade-a-antimadiviner-voidclan_27
+    21300056: shade-a-antimadiviner-voidclan_28
+    21300058: shade-a-antimadiviner-voidclan_29
+    21300060: shade-a-antimadiviner-voidclan_30
+    21300062: shade-a-antimadiviner-voidclan_31
+    21300064: shade-a-antimadiviner-voidclan_32
+    21300066: shade-a-antimadiviner-voidclan_33
+    21300068: shade-a-antimadiviner-voidclan_34
+    21300070: shade-a-antimadiviner-voidclan_35
+    21300072: shade-a-antimadiviner-voidclan_36
+    21300074: shade-a-antimadiviner-voidclan_37
+    21300076: shade-a-antimadiviner-voidclan_38
+    21300078: shade-a-antimadiviner-voidclan_39
+    21300080: shade-a-antimadiviner-voidclan_40
+    21300082: shade-a-antimadiviner-voidclan_41
+    21300084: shade-a-antimadiviner-voidclan_42
+    21300086: shade-a-antimadiviner-voidclan_43
+    21300088: shade-a-antimadiviner-voidclan_44
+    21300090: shade-a-antimadiviner-voidclan_45
+    21300092: shade-a-antimadiviner-voidclan_46
+    21300094: shade-a-antimadiviner-voidclan_47
+    21300096: shade-a-antimadiviner-voidclan_48
+    21300098: shade-a-antimadiviner-voidclan_49
+    21300100: shade-a-antimadiviner-voidclan_50
+    21300102: shade-a-antimadiviner-voidclan_51
+    21300104: shade-a-antimadiviner-voidclan_52
+    21300106: shade-a-antimadiviner-voidclan_53
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1205
+        width: 98
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1207
+        width: 96
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_2
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1209
+        width: 96
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_3
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1211
+        width: 135
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_4
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1210
+        width: 104
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_5
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1204
+        width: 114
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_6
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1212
+        width: 128
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_7
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 1211
+        width: 125
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_8
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 1211
+        width: 126
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 968
+        width: 110
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_10
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 965
+        width: 111
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_11
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 962
+        width: 113
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_12
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 967
+        width: 179
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_13
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 971
+        width: 117
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_14
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 975
+        width: 187
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_15
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 966
+        width: 96
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_16
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 967
+        width: 109
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_17
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 966
+        width: 125
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_18
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 725
+        width: 98
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_19
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 727
+        width: 98
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_20
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 729
+        width: 97
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_21
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 727
+        width: 127
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_22
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 730
+        width: 127
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_23
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 733
+        width: 190
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_24
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 727
+        width: 111
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_25
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 726
+        width: 113
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_26
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 726
+        width: 114
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_27
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 490
+        width: 143
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_28
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 490
+        width: 146
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_29
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 490
+        width: 149
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_30
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 488
+        width: 119
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_31
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 485
+        width: 113
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_32
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 481
+        width: 123
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_33
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 487
+        width: 110
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_34
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 486
+        width: 102
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_35
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 486
+        width: 93
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_36
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 252
+        width: 172
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_37
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 250
+        width: 165
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_38
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 247
+        width: 148
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_39
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 245
+        width: 99
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_40
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 247
+        width: 101
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_41
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 250
+        width: 107
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_42
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 245
+        width: 126
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_43
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 245
+        width: 125
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_44
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 245
+        width: 126
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_45
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 12
+        width: 128
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_46
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 10
+        width: 117
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_47
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 8
+        width: 106
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_48
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 3
+        width: 97
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_49
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 8
+        width: 97
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_50
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 14
+        width: 101
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_51
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 0
+        width: 198
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_52
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 0
+        width: 198
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shade-a-antimadiviner-voidclan_53
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 0
+        width: 198
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: 2165b67deb7cc404d87dd3ace244ab89
+timeCreated: 1533391264
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cryptWalkSouth1
+    21300002: cryptSouth
+    21300004: cryptWalkSouth2
+    21300006: cryptWalkWest1
+    21300008: cryptWest
+    21300010: cryptWalkWest2
+    21300012: cryptSit
+    21300014: cryptWalkEast1
+    21300016: cryptEast
+    21300018: cryptWalkEast2
+    21300020: cryptWalkNorth1
+    21300022: cryptNorth
+    21300024: cryptWalkNorth2
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cryptWalkSouth1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 185
+        width: 37
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5185609, y: 0.09837423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cryptSouth
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 185
+        width: 37
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5000002, y: 0.08433586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cryptWalkSouth2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 185
+        width: 37
+        height: 56
+      alignment: 9
+      pivot: {x: 0.48607966, y: 0.09224265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cryptWalkWest1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 123
+        width: 33
+        height: 58
+      alignment: 9
+      pivot: {x: 0.49479744, y: 0.124063954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cryptWest
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 123
+        width: 33
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5468239, y: 0.12801081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cryptWalkWest2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 123
+        width: 33
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5364188, y: 0.124063954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cryptSit
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 120
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cryptWalkEast1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 63
+        width: 34
+        height: 58
+      alignment: 9
+      pivot: {x: 0.51514894, y: 0.1299841}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cryptEast
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 63
+        width: 34
+        height: 60
+      alignment: 9
+      pivot: {x: 0.469702, y: 0.13945656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cryptWalkEast2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 63
+        width: 34
+        height: 58
+      alignment: 9
+      pivot: {x: 0.46970233, y: 0.11222326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cryptWalkNorth1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 5
+        width: 37
+        height: 56
+      alignment: 9
+      pivot: {x: 0.52784127, y: 0.11063741}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cryptNorth
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 5
+        width: 37
+        height: 58
+      alignment: 9
+      pivot: {x: 0.50464034, y: 0.0737417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cryptWalkNorth2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 5
+        width: 37
+        height: 56
+      alignment: 9
+      pivot: {x: 0.4721589, y: 0.11676911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

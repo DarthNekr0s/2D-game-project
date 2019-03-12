@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 94fcd95ec4c77a443ae43baff71c727c
+timeCreated: 1535196764
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: wodden_fence1
+    21300002: small tree
+    21300004: celianna_farm_old_2
+    21300006: small_pond
+    21300008: celianna_farm_old_4
+    21300010: WHEAT
+    21300012: celianna_farm_old_6
+    21300014: VINE_DARK1
+    21300016: weeds
+    21300018: celianna_farm_old_9
+    21300020: celianna_farm_old_10
+    21300022: celianna_farm_old_11
+    21300024: celianna_farm_old_12
+    21300026: water_well
+    21300028: celianna_farm_old_14
+    21300030: loose_logs
+    21300032: rock_thing
+    21300034: rock thing_2
+    21300036: celianna_farm_old_18
+    21300038: VINE_LIGHT1
+    21300040: VINE_LIGHT2
+    21300042: celianna_farm_old_21
+    21300044: celianna_farm_old_22
+    21300046: celianna_farm_old_23
+    21300048: vine_plant
+    21300050: small wooden bridge
+    21300052: celianna_farm_old_26
+    21300054: celianna_farm_old_27
+    21300056: small_bucket
+    21300058: celianna_farm_old_1
+    21300060: wooden fence_2
+    21300062: WOODEN_FENCE_LONG
+    21300064: AXE_STUMP
+    21300066: SMALL _LOG
+    21300068: SMALL_LOG_2
+    21300070: celianna_farm_old_0
+    21300072: celianna_farm_old_3
+    21300074: celianna_farm_old_5
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wodden_fence1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 148
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 14.5}
+        - {x: -16, y: -14.5}
+        - {x: 16, y: -14.5}
+        - {x: 16, y: 14.5}
+      - - {x: -4, y: -3.5}
+        - {x: 1, y: -3.5}
+        - {x: 3, y: -5.5}
+        - {x: 4, y: -5.5}
+        - {x: 4, y: -4.5}
+        - {x: -3, y: -4.5}
+        - {x: -4, y: -5.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small tree
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 386
+        width: 101
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 56.5}
+        - {x: -43.5, y: 47.5}
+        - {x: -50.5, y: 28.5}
+        - {x: -50.5, y: -17.5}
+        - {x: -29.5, y: -56.5}
+        - {x: 50.5, y: -56.5}
+        - {x: 50.5, y: 56.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_farm_old_2
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 310
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: -37.5}
+        - {x: 34, y: 37.5}
+        - {x: -34, y: 37.5}
+        - {x: -34, y: -37.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_pond
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 83
+        width: 149
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.5, y: 54}
+        - {x: -74.5, y: 46}
+        - {x: -74.5, y: -47}
+        - {x: -71.5, y: -54}
+        - {x: 47.5, y: -54}
+        - {x: 74.5, y: -45}
+        - {x: 74.5, y: 43}
+        - {x: 42.5, y: 54}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_farm_old_4
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 226
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 21.5}
+        - {x: -11, y: 21.5}
+        - {x: -21, y: 15.5}
+        - {x: -21, y: -21.5}
+        - {x: 21, y: -21.5}
+        - {x: 21, y: 3.5}
+        - {x: 17, y: 17.5}
+      - - {x: 16, y: 6.5}
+        - {x: 19, y: 7.5}
+        - {x: 19, y: 10.5}
+        - {x: 16, y: 11.5}
+        - {x: 14, y: 9.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WHEAT
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 36
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: -23}
+        - {x: 22, y: -23}
+        - {x: 22, y: 23}
+        - {x: -22, y: 23}
+        - {x: -22, y: -3}
+        - {x: -21, y: -15}
+        - {x: -14, y: -23}
+        - {x: 17, y: -23}
+        - {x: 19, y: -21}
+        - {x: 19, y: -18}
+        - {x: 19, y: -22}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_farm_old_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 29
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 26.5}
+        - {x: -15.5, y: -26.5}
+        - {x: 12.5, y: -26.5}
+        - {x: 15.5, y: -23.5}
+        - {x: 15.5, y: 18.5}
+        - {x: 14.5, y: 26.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VINE_DARK1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 44
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 12}
+        - {x: -1, y: 16}
+        - {x: -8, y: 16}
+        - {x: -8, y: -16}
+        - {x: 6, y: -16}
+        - {x: 8, y: -15}
+        - {x: 8, y: 15}
+        - {x: 6, y: 14}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: weeds
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 45
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 17}
+        - {x: -17.5, y: -17}
+        - {x: 14.5, y: -17}
+        - {x: 17.5, y: -16}
+        - {x: 17.5, y: 17}
+      - - {x: 0.5, y: 1}
+        - {x: -0.5, y: 1}
+        - {x: 0.5, y: 0}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_farm_old_9
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 47
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 16.5}
+        - {x: -9.5, y: -15.5}
+        - {x: -7.5, y: -16.5}
+        - {x: 9.5, y: -16.5}
+        - {x: 9.5, y: 16.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_farm_old_10
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 49
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 14}
+        - {x: -8, y: 11}
+        - {x: -8, y: -12}
+        - {x: -5, y: -14}
+        - {x: 8, y: -14}
+        - {x: 8, y: 14}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_farm_old_11
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 19
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: -24.5}
+        - {x: -7.5, y: -28.5}
+        - {x: -2.5, y: -28.5}
+        - {x: -3.5, y: -24.5}
+        - {x: -6.5, y: -21.5}
+        - {x: -8.5, y: -21.5}
+      - - {x: -9.5, y: 28.5}
+        - {x: -9.5, y: -23.5}
+        - {x: -2.5, y: -27.5}
+        - {x: 5.5, y: -27.5}
+        - {x: 9.5, y: -23.5}
+        - {x: 9.5, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_farm_old_12
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 40}
+        - {x: -16, y: 4}
+        - {x: -15, y: -30}
+        - {x: -7, y: -40}
+        - {x: 6, y: -40}
+        - {x: 11, y: -39}
+        - {x: 11, y: 21}
+        - {x: -5, y: 40}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: water_well
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 32.5}
+        - {x: -18, y: -29.5}
+        - {x: -16, y: -32.5}
+        - {x: 15, y: -32.5}
+        - {x: 18, y: -29.5}
+        - {x: 18, y: 32.5}
+      - - {x: 4, y: 0.5}
+        - {x: 4, y: 1.5}
+        - {x: -4, y: 1.5}
+        - {x: -4, y: 0.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_farm_old_14
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 56
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -3, y: -10}
+        - {x: 3, y: -10}
+        - {x: 3, y: 10}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loose_logs
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 55
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 11.5}
+        - {x: -13.5, y: 11.5}
+        - {x: -13.5, y: -11.5}
+        - {x: 13.5, y: -11.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rock_thing
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 0
+        width: 104
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 39.5}
+        - {x: -52, y: -39.5}
+        - {x: 52, y: -39.5}
+        - {x: 52, y: 39.5}
+      - - {x: -22, y: -0.5}
+        - {x: -27, y: 12.5}
+        - {x: 16, y: 20.5}
+        - {x: 25, y: -5.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rock thing_2
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1
+        width: 104
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 40}
+        - {x: -52, y: -39}
+        - {x: -51, y: -40}
+        - {x: 52, y: -40}
+        - {x: 52, y: 37}
+        - {x: 49, y: 40}
+      - - {x: -27, y: 13}
+        - {x: 16, y: 21}
+        - {x: 25, y: -8}
+        - {x: 5, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_farm_old_18
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: -12.5}
+        - {x: 10.5, y: -13.5}
+        - {x: 16.5, y: -13.5}
+        - {x: 16.5, y: 7.5}
+        - {x: 9.5, y: 13.5}
+        - {x: -10.5, y: 13.5}
+        - {x: -16.5, y: 4.5}
+        - {x: -16.5, y: -10.5}
+        - {x: -13.5, y: -13.5}
+        - {x: 9.5, y: -13.5}
+        - {x: 10.5, y: -12.5}
+        - {x: 10.5, y: -10.5}
+        - {x: 13.5, y: -10.5}
+      - - {x: -13.5, y: 9.5}
+        - {x: -12.5, y: 13.5}
+        - {x: -16.5, y: 13.5}
+        - {x: -16.5, y: 8.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VINE_LIGHT1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 10
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 12}
+        - {x: -1, y: 16}
+        - {x: -8, y: 16}
+        - {x: -8, y: -16}
+        - {x: 6, y: -16}
+        - {x: 8, y: -15}
+        - {x: 8, y: 15}
+        - {x: 6, y: 14}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VINE_LIGHT2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 11
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 17}
+        - {x: -17.5, y: -17}
+        - {x: 14.5, y: -17}
+        - {x: 17.5, y: -16}
+        - {x: 17.5, y: 17}
+      - - {x: 0.5, y: 1}
+        - {x: -0.5, y: 1}
+        - {x: 0.5, y: 0}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_farm_old_21
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 11
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 16}
+        - {x: -6.5, y: 13}
+        - {x: -6.5, y: -14}
+        - {x: -5.5, y: -16}
+        - {x: 5.5, y: -16}
+        - {x: 6.5, y: -15}
+        - {x: 6.5, y: 15}
+        - {x: 4.5, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_farm_old_22
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 7
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 17}
+        - {x: -5.5, y: 17}
+        - {x: -5.5, y: -14}
+        - {x: -3.5, y: -17}
+        - {x: 5.5, y: -17}
+        - {x: 5.5, y: 8}
+      - - {x: 2.5, y: 12}
+        - {x: 4.5, y: 10}
+        - {x: 5.5, y: 10}
+        - {x: 5.5, y: 16}
+        - {x: 2.5, y: 15}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_farm_old_23
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 26
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 9}
+        - {x: -4.5, y: 7}
+        - {x: -4.5, y: -8}
+        - {x: -3.5, y: -9}
+        - {x: 4.5, y: -9}
+        - {x: 4.5, y: 9}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vine_plant
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 24.5}
+        - {x: -9.5, y: 24.5}
+        - {x: -10.5, y: 23.5}
+        - {x: -10.5, y: -23.5}
+        - {x: -7.5, y: -24.5}
+        - {x: 6.5, y: -24.5}
+        - {x: 10.5, y: -20.5}
+        - {x: 10.5, y: 18.5}
+        - {x: 9.5, y: 20.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small wooden bridge
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 19
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16}
+        - {x: -16.5, y: -16}
+        - {x: 16.5, y: -16}
+        - {x: 16.5, y: 12}
+        - {x: 13.5, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_farm_old_26
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 11
+        width: 61
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 14.5}
+        - {x: -30.5, y: -6.5}
+        - {x: -25.5, y: -14.5}
+        - {x: 30.5, y: -14.5}
+        - {x: 30.5, y: 4.5}
+        - {x: -6.5, y: 14.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_farm_old_27
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 4
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 9}
+        - {x: -4.5, y: -9}
+        - {x: 3.5, y: -9}
+        - {x: 4.5, y: -8}
+        - {x: 4.5, y: 7}
+        - {x: 3.5, y: 9}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_bucket
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 7
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 6.5}
+        - {x: -6, y: -6.5}
+        - {x: 6, y: -6.5}
+        - {x: 6, y: 6.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_farm_old_1
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 270
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.4131775, y: 14}
+        - {x: -12.5, y: 14}
+        - {x: -17.5, y: 11}
+        - {x: -21.5, y: 3}
+        - {x: -21.5, y: -14}
+        - {x: 18.5, y: -14}
+        - {x: 21.5, y: -9}
+        - {x: 21.5, y: 0.98672485}
+        - {x: 16.032898, y: 10.563538}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wooden fence_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 148
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 14.5}
+        - {x: -16, y: -14.5}
+        - {x: 16, y: -14.5}
+        - {x: 16, y: 14.5}
+      - - {x: -4, y: -4.5}
+        - {x: -5, y: -5.5}
+        - {x: -4, y: -5.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WOODEN_FENCE_LONG
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 116
+        width: 58
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 14.5}
+        - {x: -29, y: -14.5}
+        - {x: 29, y: -14.5}
+        - {x: 29, y: 14.5}
+      - - {x: 13, y: -4.5}
+        - {x: 18, y: -6.5}
+        - {x: 17, y: -4.5}
+        - {x: 11, y: -4.5}
+      - - {x: -18, y: -2.5}
+        - {x: -12, y: -4.5}
+        - {x: -3, y: -5.5}
+        - {x: -5, y: -3.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AXE_STUMP
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 113
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 16.5}
+        - {x: -14.5, y: -16.5}
+        - {x: 12.5, y: -16.5}
+        - {x: 14.5, y: -15.5}
+        - {x: 14.5, y: 16.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SMALL _LOG
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 190
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 17.5}
+        - {x: -19.5, y: -5.5}
+        - {x: -15.5, y: -17.5}
+        - {x: 19.5, y: -17.5}
+        - {x: 19.5, y: 15.5}
+        - {x: 14.5, y: 17.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SMALL_LOG_2
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 190
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 18.5}
+        - {x: -20.5, y: 15.5}
+        - {x: -20.5, y: -18.5}
+        - {x: 20.5, y: -18.5}
+        - {x: 20.5, y: 18.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_farm_old_0
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 262
+        width: 30
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -1.5}
+        - {x: -15, y: 1.5}
+        - {x: 15, y: 1.5}
+        - {x: 15, y: -1.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_farm_old_3
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 291
+        width: 1
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -4}
+        - {x: -0.5, y: 4}
+        - {x: 0.5, y: 4}
+        - {x: 0.5, y: -4}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: celianna_farm_old_5
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 118
+        width: 10
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - battleGrass
+  - GameManager
+  - enemy
+  - fader
+  - Crypt
+  - fighter
+  - justone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: GROUND
+    uniqueID: 2522058447
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GROUND OBJECTS
+    uniqueID: 4151985227
+    locked: 0
+  - name: WORLD OBJECTS
+    uniqueID: 3830175527
+    locked: 0
+  - name: PLAYER
+    uniqueID: 937720595
+    locked: 0
