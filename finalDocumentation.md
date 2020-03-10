@@ -15,9 +15,9 @@ You have a follower that keeps behind you at all times, party member Crypt, who 
 You cannot control her as she will just follow your character around
 
 
-Press E to interact with any objects that look like they might do something. If you're stuck and can't find out where to go look around and see if anything can be used.
+**Press E** to interact with any objects that look like they might do something. If you're stuck and can't find out where to go look around and see if anything can be used.
 
-Press R to talk to NPCs.
+**Press R** to talk to NPCs.
 
 
 At t his point in game production, it is still in the prologue. Your village has been sealed off by a fence that will be taken down later on as the game progresses in development. Currently, the storyline of the game stops after you get this legendary sword. There are a few different areas to explore, with unique music for different biomes, and battle music as well.
