@@ -11,9 +11,8 @@ Player Movement:
 •	Up, Left, Down, Right arrows 
 
 
-You have a follower that keeps behind you at all times, party member Crypt, who joins you in battle.
-You cannot control her as she will just follow your character around
-
+You have a follower that walks behind you at all times,  the first party member, who joins you in battle.
+You cannot control her.
 
 **Press E** to interact with any objects that look like they might do something. If you're stuck and can't find out where to go look around and see if anything can be used.
 
