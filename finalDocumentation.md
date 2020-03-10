@@ -1,4 +1,4 @@
-#How to Play & Storyline, Game Progress
+## How to Play & Storyline, Game Progress
 
 
 When the game first loads, the dialog that pops up gives you a quick rundown on the controls. 
@@ -25,11 +25,7 @@ Currently the combat system is not functioning properly. I spent days trying to 
 There is also no notification of a win or exp gaining system in place yet. So as soon as either the enemy or players hitpoints reaches zero, the battle will end.
 
 
-
-
-
-#Target Demographic
-
+## Target Demographic
 
 
 I have aimed this game for all ages, meaning its family friendly as the colourful cartoonish graphics are attractive towards young people. It would also appeal to teenagers or young adults that grew up playing Gameboy games, as the style is reminiscent of early JPRGs that a lot of people grew up with, and the kind of gameplay can be easily addicting.
@@ -37,7 +33,7 @@ The graphics of the game make it more appealing towards a wider audience, as not
 
 
 
-#Code Structure
+## Code Structure
 
 
 
@@ -47,8 +43,7 @@ The script that controls when we get into a battle is a bit complicated. It work
 
 
 
-
-#AI Documentation
+## AI Documentation
 
 
 
