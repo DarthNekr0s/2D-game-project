@@ -2,7 +2,7 @@
 
 this is a 2d fantasy game in development for game design cert
 
-if you want to play, download a copy of the "second build" folder to your machine.
+if you want to play, go to the [releases section](https://github.com/d3aths/2D-game-project/releases/tag/0.1) and download the zip that contains game data files.
 
 the folder 'fantasy game' contains all the games files to be opened with Unity.
 
