@@ -19,7 +19,7 @@ You cannot control her.
 **Press R** to talk to NPCs.
 
 
-At t his point in game production, it is still in the prologue. Your village has been sealed off by a fence that will be taken down later on as the game progresses in development. Currently, the storyline of the game stops after you get this legendary sword. There are a few different areas to explore, with unique music for different biomes, and battle music as well.
+At this point in game production, it is still in the prologue. Your village has been sealed off by a fence that will be taken down later on as the game progresses in development and as the plot progresses. Currently, the storyline of the game stops after you get this legendary sword. There are a few different areas to explore, with unique music for different biomes, and battle music as well.
 
 Currently the combat system is not functioning properly. I spent days trying to get it satisfactory but couldn't figure out what the problem was. After you attack or use a spell, the button becomes disabled and you have to wait for a popup that tells you it's the enemy turn. Once clicked, they take their turn and it disappeared and your controls get re-enabled. What this is doing at the moment is not disappearing until you click it two, maybe 3 times, so you can spam click if you want the enemy to keep attacking you, and for some reason you get controls back anyway after just clicking it once.
 
